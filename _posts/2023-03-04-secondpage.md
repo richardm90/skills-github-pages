@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "secondpage"
 date: 2023-03-04
 tags: rpg db2fori
