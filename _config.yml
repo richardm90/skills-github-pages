@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: dark
 title: My GitHub Pages Site
 author: Richard Moulton
 description: Welcome to my GitHub pages site!
